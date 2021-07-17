@@ -1,0 +1,111 @@
+{
+    "palette": "navy",
+    "header": {
+        "title": "Business",
+        "logo_img": "images/logo.png",
+        "logo_img_alt": "Libris logo",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Capabilities",
+                "url": "/",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
+                "label": "Markets",
+                "url": "/docs",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
+                "label": "About Business Integra",
+                "url": "/blog",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
+                "label": "Careers",
+                "url": "/style-guide",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
+                "url": "#",
+                "style": "link",
+                "has_subnav": false,
+                "subnav_links": [
+                    {
+                        "label": "Overview",
+                        "url": "/overview",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Showcase",
+                        "url": "/showcase",
+                        "style": "link"
+                    }
+                ],
+                "label": "Contact Us"
+            },
+            {
+                "label": " ",
+                "url": "https://github.com/",
+                "style": "primary",
+                "has_subnav": false,
+                "icon_class": "instagram"
+            }
+        ]
+    },
+    "footer": {
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "icon",
+                "icon_class": "twitter",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "icon",
+                "icon_class": "linkedin",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/",
+                "style": "icon",
+                "icon_class": "github",
+                "new_window": true
+            }
+        ],
+        "content": "Copyright &copy; 2021. All Rights reserved.",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ],
+        "second_col": true,
+        "col_text": "column text",
+        "has_develop_info": true,
+        "develop_info": "Design & Developed By Xmedia Solutions"
+    },
+    "title": "Stackbit Libris Theme",
+    "domain": "https://test-e65ed.netlify.app",
+    "footertop": {
+        "type": "footertop",
+        "mobile": "9710823803",
+        "content": "Stay connected with Business Integra <a href=\"#!\" class=\"connect_now\">Conect Now</a>",
+        "mobile_number": "9710823803",
+        "social": []
+    }
+}
